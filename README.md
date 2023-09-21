@@ -1,4 +1,4 @@
-#### Copyright Damian Mihai-Robert & Pirlea Andrei 312CAb 2022-2023
+#### Copyright Damian Mihai-Robert & Pirlea Andrei 312CA 2022-2023
 <br>
 
 ## Programul reprezinta un editor de imagini, care poate realiza:
